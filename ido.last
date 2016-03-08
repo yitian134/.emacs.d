@@ -1,0 +1,44 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "etc/")
+ ("/home/zsh/Codes/Redis_study/" . "double_list/")
+ ("/home/zsh/Codes/" . "Redis_study/")
+ ("/home/zsh/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/etc/"
+ "/home/zsh/.emacs.d/"
+ "/home/zsh/Codes/Redis_study/double_list/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ld.so.conf"
+ "README.md"
+ "init.el"
+ "double_list.h"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/etc/" (22238 47963 0 0) "purple/" "audisp/" "logwatch/" "gpm-root.conf" "libuser.conf" "gtk-2.0/" "pinforc" "environment" "iproute2/" "yum.conf" "httpd/" "auto.net" "inittab" "fonts/" "updatedb.conf" "bonobo-activation/" "cups/" "skel/" "Muttrc.local" "resolv.conf" "termcap" "fb.modes" "sudoers" "java/" "udev/" "sestatus.conf" "hosts.deny" "cron.monthly/" "exports" "cron.weekly/" "yum.repos.d/" "blkid/" "lftp.conf" "crontab" "pm/" "auto.smb" "lsb-release.d/" "pam_smb.conf" "mail.rc" "dnsmasq.conf" "scrollkeeper.conf" "gtk/" "autofs_ldap_auth.conf" "depmod.d/" "bluetooth/" "subversion/" "auto.misc" "dev.d/" "csh.login" "samba/" "ntp.conf" "DIR_COLORS.xterm" "profile.d/" "slrn.rc" "init.d/" "makedev.d/" "modprobe.d/" "dbus-1/" "mgetty+sendfax/" "gssapi_mech.conf" "rpm/" "ssh/" "capi.conf" "hosts.allow" "jvm/" "libaudit.conf" "ld.so.cache" "xdg/" "yum/" "rc" "gnome-vfs-2.0/" "bashrc" "xinetd.d/" "pango/" "smartd.conf" "smrsh/" "wgetrc" "shadow-" "pam.d/" "conman.conf" "rc2.d/" "ltrace.conf" "motd" "rpc" "cron.daily/" "lvm/" "krb5.conf" "fstab" "NetworkManager/" "syslog.conf" "sgml/" "printcap" "gcrypt/" "logrotate.d/" "group" "gshadow" "xml/" "foomatic/" "gimp/" "rc4.d/" "logrotate.conf" "passwd" "scim/" "mailcap" "sane.d/" "sasl2/" "minicom.users" "default/" "ppp/" "selinux/" "prelink.conf.d/" "cron.deny" "readahead.d/" "csh.cshrc" "mke2fs.conf" "rmt" "oddjob/" "jvm-commmon/" "passwd-" "acpi/" "setuptool.d/" "shells" "adjtime" "desktop-profiles/" "securetty" "warnquota.conf" "login.defs" "protocols" "mtab" "pam_pkcs11/" "ghostscript/" "mtools.conf" "modprobe.conf" "modprobe.conf~" "aliases.db" "gnome-vfs-mime-magic" "nscd.conf" "profile" "iscsi/" "jwhois.conf" "cdrecord.conf" "audit/" "avahi/" "prelink.cache" "a2ps-site.cfg" "issue" "sysctl.conf" "oddjobd.conf.d/" "asound.state" "auto.master" "group-" "scsi_id.config" "enscript.cfg" "mime.types" "X11/" "rc.d/" "gconf/" "hosts" "rc3.d/" "dhcp6c.conf" "rwtab.d/" "prelink.conf" "isdn/" "virc" "idmapd.conf" "bash_completion.d/" "netplug/" "hp/" "cron.hourly/" "redhat-lsb/" "aliases" "DIR_COLORS" "maven/" "rc6.d/" "rhgb/" "rc.local" "rc0.d/" "esd.conf" "resolv.conf.predhclient" "redhat-release" "quotatab" "gdm/" "pki/" "hal/" "man.config" "reader.conf.d/" "pcmcia/" "reader.conf" "rc.sysinit" "opt/" "mail/" "sound/" "cron.d/" "localtime" "vimrc" "rc5.d/" "stunnel/" "wpa_supplicant/" "nsswitch.conf" "ldap.conf" "yp.conf" "dnsmasq.d/" "ld.so.conf.d/" "alsa/" "quotagrpadmins" "rwtab" "filesystems" "anacrontab" "alternatives/" "gshadow-" "netplug.d/" "host.conf" "services" "a2ps.cfg" "shadow" "initlog.conf" "wvdial.conf" "rc1.d/" "grub.conf" "at.deny" "openldap/" "scl/" ".pwd.lock" "ntp/" "issue.net" "dumpdates" "oddjobd.conf" "sysconfig/" "inputrc" "multipath.conf" "ld.so.conf" "security/" "Muttrc" "racoon/" "../" "./")
+
+ ("/home/" (22238 42445 0 0) ".emacs" "../" ".emacs.d.bak/" "zsh/" "./")
+
+ ("/home/zsh/" (22238 48066 0 0) ".gnome2/" ".bash_history" ".vboxclient-draganddrop.pid" ".gnome2_private/" ".scim/" ".vboxclient-seamless.pid" ".ICEauthority" ".gconf/" ".gconfd/" ".gnome/" ".redhat/" ".metacity/" ".config/" "../" "#*message*-20151213-151657#" "./" ".vboxclient-display.pid" ".gnupg/" ".mozilla/" "Codes/" "Notes/" ".emacs.d/" ".viminfo" ".dmrc" "Desktop/" ".bash_logout" ".bashrc" ".cache/" ".bash_profile" "install_package/" ".gtkrc-1.2-gnome2" ".Trash/" ".recently-used.xbel" ".nautilus/" ".eggcups/" ".emacs~" ".vboxclient-clipboard.pid" ".xsession-errors" ".chewing/" ".gstreamer-0.10/")
+
+ ("/home/zsh/.emacs.d/" (22238 45783 0 0) "README.md" "var/" "ditaa0_9.jar" "custom.el" "test-startup.sh" "lisp/" ".smex-items" "../" "init.el" "auto-save-list/" ".session" "ac-comphist.dat" "ido.last" "./" "recentf" "site-lisp/" "org-clock-save.el" "history" "LICENSE" "elpa/")
+
+ ("/home/zsh/Codes/Redis_study/double_list/" (22170 6694 0 0) "double_list.h~" "../" "./" "double_list.h")
+
+ ("/home/zsh/Codes/Redis_study/" (22170 4980 0 0) "../" "./" "double_list/")
+
+ ("/home/zsh/Codes/" (22221 28273 0 0) "Redis_study/" "tests/" "hiho_code/" "../" "linux_system_programming/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
